@@ -1,6 +1,6 @@
 # jop 
 
-get sql injection of website
+find sql injection of website [sql scanner]
 
 kali linux :- open tarminal
 
